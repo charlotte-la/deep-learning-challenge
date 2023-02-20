@@ -2,7 +2,7 @@
 # Report
 
 ## Overview
-This project Your project aimed to create a predictive model that would help determine the success of funding for applicants of a nonprofit organization called Alphabet Soup. To achieve this, data was preprocessed to prepare it for modeling.
+This project aimed to create a predictive model that would help determine the success of funding for applicants of a nonprofit organization called Alphabet Soup. To achieve this, data was preprocessed to prepare it for modeling.
 
 The preprocessing steps included removing any irrelevant columns that would not contribute to the prediction of the target variable. Additionally, rare variable values were binned or grouped together to reduce the number of unique values and simplify the model. Another important step  was converting categorical data into numerical data, which is necessary for many machine learning algorithms. 
 
